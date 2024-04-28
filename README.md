@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Nuxt3 and TypeScript.
 
 ### Tech Stack
-![My Skills](https://skillicons.dev/icons?i=ts,vue,react,nodejs,nuxt,tailwind)
+![My Skills](https://skillicons.dev/icons?i=ts,vue,react,nodejs,nuxt,tailwind,astro)
 
 ### Tools Utilized
 ![Tools Utilized](https://skillicons.dev/icons?i=vscode,vite,rollupjs,figma,docker)
