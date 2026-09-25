@@ -11,4 +11,4 @@
 
 ### Github Stats
 
-![Bohe's GitHub stats](https://bohe-readme-stats.vercel.app/api?username=bohecola&hide_title=true&include_all_commits=true&show_icons=true&theme=tokyonight) ![Top Langs](https://bohe-readme-stats.vercel.app/api/top-langs/?username=bohecola&layout=compact&theme=tokyonight)
+![Bohe's GitHub stats](https://bohe-stats-extended.vercel.app/api?username=bohecola&hide_title=true&include_all_commits=true&show_icons=true&theme=tokyonight) ![Top Langs](https://bohe-stats-extended.vercel.app/api/top-langs/?username=bohecola&layout=compact&theme=tokyonight)
